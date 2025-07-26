@@ -1,0 +1,12 @@
+configuration {
+  modi: "drun,run";
+  font: "CaskaydiaCove Nerd Font Mono 12";
+  show-icons: true;
+  icon-theme: "Papirus-Dark";
+}
+* {
+  background:     #000000;
+  foreground:     #8be9fd;
+  border-color:   #8be9fd;
+  selected:       #8be9fd;
+}
